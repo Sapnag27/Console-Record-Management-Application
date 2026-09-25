@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "sapna",
+        "age": 21,
+        "course": "mca",
+        "email": "sapna@test.com",
+        "phone": "231897063"
+    },
+    {
+        "id": 2,
+        "name": "deshna",
+        "age": 21,
+        "course": "mca",
+        "email": "deshna@test.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 3,
+        "name": "tanisha",
+        "age": 22,
+        "course": "mba",
+        "email": "tanisha@test.com",
+        "phone": "9812345670"
+    }
+]

@@ -1,0 +1,36 @@
+SAMPLE RUN
+
+==================================================
+       STUDENT RECORD MANAGEMENT SYSTEM
+==================================================
+1. Add Record
+2. View Records
+3. Search Record
+4. Update Record
+5. Delete Record
+6. Exit
+==================================================
+Enter your choice (1-6): 1
+
+--- Add Record ---
+Enter student ID: 101
+Enter student name: Rahul Sharma
+Enter age: 21
+Enter course: BSc Computer Science
+Enter email: rahul@example.com
+Enter phone number: 9876543210
+Record added successfully.
+
+Enter your choice (1-6): 2
+
+--- View Records ---
+
+Total records: 1
+--------------------------------------------------
+ID      : 101
+Name    : Rahul Sharma
+Age     : 21
+Course  : BSc Computer Science
+Email   : rahul@example.com
+Phone   : 9876543210
+--------------------------------------------------
